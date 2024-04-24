@@ -1,0 +1,39 @@
+
+b	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(«¥ˆË8’ÓÚî1
+c	java:S112£"FDefine and throw a dedicated exception instead of using a generic one.(ì˜ğ…8’ÓÚî1
+l
+java:S1192h"JDefine a constant instead of duplicating this literal "user.home" 4 times.(ÛÏ«Àúÿÿÿÿ8‚’ÓÚî1
+r	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÄ¿øÿÿÿÿ8‚’ÓÚî1
+m	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åñ8‚’ÓÚî1
+r	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìù³şÿÿÿÿ8‚’ÓÚî1
+r	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è·âøÿÿÿÿ8‚’ÓÚî1
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŠ£8ƒ’ÓÚî1
+r
+java:S3655g"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ó¼³Ôûÿÿÿÿ8£’ÓÚî1
+m
+java:S3655¤"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ıœ†A8£’ÓÚî1
+«
+java:S4449<"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(¾ûô¾üÿÿÿÿ8£’ÓÚî1
+|
+java:S3008 "ZRename this field "UPLOADED_FOLDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÅŒúÿÿÿÿ8¤’ÓÚî1
+_
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8¥’ÓÚî1
+_
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8¥’ÓÚî1
+_
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ8¥’ÓÚî1
+_
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8¥’ÓÚî1
+P
+java:S6837p"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8§’ÓÚî1
+L	java:S106-"+Replace this use of System.out by a logger.(­£üıÿÿÿÿ8¬’ÓÚî1
+]	java:S125B"<This block of commented-out lines of code should be removed.(œüÓ¹ÿÿÿÿÿ8²’ÓÚî1
+X	java:S125w"<This block of commented-out lines of code should be removed.(«¢ó—8¹’ÓÚî1
+H	java:S106ˆ"+Replace this use of System.out by a logger.(ïã®‰8¼’ÓÚî1
+H	java:S106"+Replace this use of System.out by a logger.(—Ê ›8½’ÓÚî1
+^	java:S125"<This block of commented-out lines of code should be removed.(ÑšÚÔÿÿÿÿÿ8¿’ÓÚî1
+Y	java:S125¦"<This block of commented-out lines of code should be removed.(ŒÊÊ8À’ÓÚî1
+`
+java:S1128"CRemove this unused import 'com.fslk.hairroomapi.entities.Customer'.(×°Ë8ƒø…Şî1
+U
+java:S1068 "3Remove this unused "UPLOADED_FOLDER" private field.(çÅŒúÿÿÿÿ8Å’ÓÚî1

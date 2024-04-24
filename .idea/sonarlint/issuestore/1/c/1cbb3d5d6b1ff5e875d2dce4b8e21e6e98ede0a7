@@ -1,0 +1,21 @@
+
+E
+java:S3740>"/Provide the parametrized type for this generic.(§ı»Ô
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷¹•ƒûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¨
+f	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©í
+k	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø Âçıÿÿÿÿ
+k	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÁÊ«ùÿÿÿÿ
+r
+java:S3655:"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÙËäøÿÿÿÿ8›ÖıâÑ1
+«
+java:S44492"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(¾ûô¾üÿÿÿÿ8œÖıâÑ1
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+@	java:S106"+Replace this use of System.out by a logger.(ƒœğÏ
+<
+java:S14527"&Remove usage of generic wildcard type.(·ñ§ş
+c
+java:S44886"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(»äÇùúÿÿÿÿ
+@	java:S106X"+Replace this use of System.out by a logger.(¥¿¡§
